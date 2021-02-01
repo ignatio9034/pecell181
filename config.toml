@@ -1,0 +1,4 @@
+baseURL = "https://batmananimatedgohjok.vercel.app"
+languageCode = "en-us"
+title = "Batman The Animated "
+theme = "hugo-theme-minos"
